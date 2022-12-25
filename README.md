@@ -1,5 +1,7 @@
--  Hi, I’m @te-lei
-–  I am a freelance Data Scientist.
+#  Hi, I’m @te-lei
+### A bit about me:
+
+-  I am a freelance Data Scientist.
 -  I’m interested in music (virtually everything but a lot of technno and house), video games, extended 
    reality (XR), motion graphics and the future
 -  I have a Google Data Analysis Certificate
